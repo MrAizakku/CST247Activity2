@@ -13,6 +13,7 @@ namespace HelloWorldService
     public interface IUserService
     {
         [OperationContract]
+        [AspNetCacheProfile("CacheFor60Seconds")]
         [WebGet(ResponseFormat = WebMessageFormat.Json, UriTemplate = "GetAllUsers/")]
         UserDTO GetAllUsers();
 

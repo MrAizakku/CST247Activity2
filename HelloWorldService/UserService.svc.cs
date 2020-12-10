@@ -20,10 +20,12 @@ namespace HelloWorldService
 
         public UserDTO GetAllUsers()
         {
-            UserDTO userDTO = new UserDTO();
-            userDTO.ErrorCode = 0;
-            userDTO.ErrorMsg = "OK";
-            userDTO.userList = UserList;
+            UserDTO userDTO = new UserDTO
+            {
+                ErrorCode = 0,
+                ErrorMsg = "OK",
+                userList = UserList
+            };
             return userDTO;
         }
 
