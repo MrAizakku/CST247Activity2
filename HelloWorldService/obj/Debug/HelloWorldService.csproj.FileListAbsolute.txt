@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\bin\HelloWorldService.dll.config
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\bin\HelloWorldService.dll
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\bin\HelloWorldService.pdb
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\obj\Debug\HelloWorldService.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\obj\Debug\HelloWorldService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\ASUS\source\repos\CST247Activity2\HelloWorldService\obj\Debug\HelloWorldService.pdb

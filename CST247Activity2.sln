@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity2Part1", "Activity2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity1Part3", "..\MVCFirstApp\Activity1Part3\Activity1Part3.csproj", "{F7B7619B-F1F9-4FEE-897A-F22CE3F8E7C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldService", "HelloWorldService\HelloWorldService.csproj", "{003E8AC5-D88E-4494-AFAD-24C7D6D843A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F7B7619B-F1F9-4FEE-897A-F22CE3F8E7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7B7619B-F1F9-4FEE-897A-F22CE3F8E7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7B7619B-F1F9-4FEE-897A-F22CE3F8E7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003E8AC5-D88E-4494-AFAD-24C7D6D843A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003E8AC5-D88E-4494-AFAD-24C7D6D843A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003E8AC5-D88E-4494-AFAD-24C7D6D843A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003E8AC5-D88E-4494-AFAD-24C7D6D843A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
